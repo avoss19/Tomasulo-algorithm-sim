@@ -4,6 +4,6 @@ Python Tomasulo algorithm sim
 
 ## How to run
 
-'''
-./main.py
-'''
+```
+./main.py inputFile.txt
+```
